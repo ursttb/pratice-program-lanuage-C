@@ -1,0 +1,4 @@
+﻿  9.c
+D:\学习\C语言\代码\ICPC月赛\ICPC月赛\9.c(14,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\学习\C语言\代码\ICPC月赛\ICPC月赛\9.c(15,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ICPC月赛.vcxproj -> D:\学习\C语言\代码\ICPC月赛\x64\Debug\ICPC月赛.exe
